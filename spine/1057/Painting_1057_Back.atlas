@@ -1,0 +1,11 @@
+Painting_1057_Back.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.5
+bgb1
+bounds:0,630,1400,1400
+bgb2
+bounds:0,0,1400,629
+bgb4
+bounds:1401,1463,567,564
+rotate:90

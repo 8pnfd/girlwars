@@ -1,0 +1,17 @@
+Painting_1059_Back.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.4
+bg_di
+bounds:0,510,1601,842
+bg_guang1
+bounds:1278,92,992,770
+offsets:609,0,1601,842
+rotate:90
+bg_hua2
+bounds:0,325,148,184
+bg_shu1
+bounds:0,0,509,729
+rotate:90
+bg_shu2
+bounds:729,277,501,232

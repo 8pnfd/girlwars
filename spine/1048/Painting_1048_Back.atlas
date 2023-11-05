@@ -1,0 +1,12 @@
+Painting_1048_Back.png
+size:2048,512
+filter:Linear,Linear
+bgb1
+bounds:0,57,640,407
+offsets:0,57,640,464
+bgb2
+bounds:641,0,640,464
+bgb3
+bounds:1282,0,640,464
+bgb5
+bounds:1282,73,256,186

@@ -1,0 +1,9 @@
+Painting_1046_Front.png
+size:1024,512
+filter:Linear,Linear
+effect/cloud2
+bounds:0,0,512,512
+effect/guangll3
+bounds:513,475,37,30
+offsets:0,4,64,64
+rotate:90

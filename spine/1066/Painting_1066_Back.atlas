@@ -1,0 +1,16 @@
+Painting_1066_Back.png
+size:2048,2048
+filter:Linear,Linear
+scale:0.25
+bgb1
+bounds:0,264,873,308
+offsets:0,85,873,393
+bgb2
+bounds:530,222,1360,474
+bgb3
+bounds:0,632,1674,498
+offsets:0,40,1674,538
+bgb4
+bounds:0,837,1745,692
+bgb8
+bounds:0,0,1745,221

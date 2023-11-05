@@ -1,0 +1,10 @@
+Painting_1046_Back.png
+size:1024,1024
+filter:Linear,Linear
+effect/cloud2
+bounds:0,0,512,512
+effect/effect_2
+bounds:513,329,220,183
+offsets:177,208,397,391
+lie_45
+bounds:0,513,1000,503

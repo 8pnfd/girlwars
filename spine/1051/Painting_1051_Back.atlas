@@ -1,0 +1,12 @@
+Painting_1051_Back.png
+size:2048,1024
+filter:Linear,Linear
+scale:0.2
+bg1
+bounds:0,466,975,558
+bg2
+bounds:838,0,838,465
+bg3
+bounds:0,0,838,465
+sg1
+bounds:976,466,945,558
