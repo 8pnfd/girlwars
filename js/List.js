@@ -316,6 +316,12 @@ var List =
 		"Front"     : "別キャラのFrontを全て透明化にして使用"
 	},
 	{
+		"file_name" : "1044/Painting_21044",
+		"rarity"    : "UR",
+		"chr_name"  : "カエサル",
+		"type"      : "skel",
+	},
+	{
 		"file_name" : "1045/Painting_1045",
 		"rarity"    : "SSR",
 		"chr_name"  : "小早川秀秋",

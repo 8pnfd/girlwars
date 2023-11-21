@@ -277,6 +277,12 @@ var ListUW =
 		"type"      : "skel"
 	},
 	{
+		"file_name" : "1044/2104404",
+		"rarity"    : "UR",
+		"chr_name"  : "カエサル",
+		"type"      : "skel"
+	},
+	{
 		"file_name" : "1045/104504",
 		"rarity"    : "SSR",
 		"chr_name"  : "小早川秀秋",
